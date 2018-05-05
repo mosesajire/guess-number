@@ -14,7 +14,7 @@
         <div id="container">
         <h2 class="title">GUESS MY NUMBER</h2>
         <p class="welcome">Welcome to this platform. The computer will generate a number between 1 and 100.
-        Can you guess what the number is? Let the game begin!        </p>
+        Your task is to guess what the number is. Let the game begin!        </p>
         <!-- Display the Input Form by default -->
             <form action="index.php" method="post" class="form">
                 Enter Your Number:
